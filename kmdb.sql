@@ -4,7 +4,7 @@
 -- top-billed cast for each movie in the database.
 
 -- Requirements/assumptions
---1
+--
 -- - There will only be three movies in the database – the three films
 --   that make up Christopher Nolan's Batman trilogy.
 -- - Movie data includes the movie title, year released, MPAA rating,
